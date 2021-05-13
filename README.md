@@ -83,14 +83,71 @@
 高质量开源代码或资源集合。
 
 
+ 
 
 <!-- GETTING STARTED -->
-## Getting Started
 
-| 分类      | 场景|组件|简介|实现语言|
-| ------------   | -------------------------|------------------------------- |
-| 发布应用类型   | 数据库变更                      |
+## 工具类
+  1. [Hutool](https://github.com/dromara/hutool)   常用JAVA工具集
+  2. [fastjson](https://github.com/alibaba/fastjson)
+## 框架
+  ### 权限
+   1. [sa-token](https://github.com/dromara/sa-token) | Java权限认证框架
+   2. 
+## 通信
+  ### 消息队列MQ
+  1. [TubeMQ](https://github.com/Tencent/TubeMQ)|TubeMQ是腾讯大数据在2013年开始研发的分布式消息中间件系统（MQ），专注服务大数据场景下海量数据的高性能存储和传输
+  2. [RabbitMQ]()
+  3. [RocketMQ]()
+  4. [ActiveMQ]()
+  5. [Kafka](http://kafka.apache.org/)|Apache Kafka is an open-source distributed event streaming platform 
+  ### 工具集
+  1. [Akka](https://akka.io/)  | 高性能，高并发，可扩展，分布式的工具集
+  2. 
+  ### 框架
+  1. ACE
+  2. 
+## 协程
+  1. [libco](https://github.com/Tencent/libco) | libco是微信后台大规模使用的c/c++协程库
+  2. [state-threads](https://github.com/ossrs/state-threads)| SRS使用的优化过的协程库
+## 流媒体
+  1. [SRS](https://github.com/ossrs) | Simple RealTime Streaming Server.
 
+## 数据库
+
+## 搜索和分析
+  1. [ElasticSearch]()
+## 大数据
+
+## 分布式 & 云原生
+  ### 微服务
+   1. [K8s]()
+   2. [Istio]()
+   3. [Docker]()
+   4. [Soul](https://github.com/dromara/shenyu) 也叫 Shenyu，可扩展、高性能、响应式的 API 网关解决方案
+   5. 
+  ### P2P
+  ### 
+   1. [Nacos](https://github.com/alibaba/nacos) | an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+## 调测
+  1. [Arthas](https://github.com/alibaba/arthas)  | Java诊断利器
+## 计算 
+
+## 容器
+
+## 区块连
+
+
+## 可视化
+
+## 安全
+
+## 监控
+  1. Mantis https://github.com/Netflix/mantis
+  2. 蓝鲸
+
+## 代码生成 & 文档生成
+  1. [APIJSON](https://github.com/Tencent/APIJSON) | 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构!
 
 
 
@@ -99,7 +156,17 @@
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
+## 公司或组织
+* [github]()
+* [gitee]()
+* [apache](https://apache.org/index.html#projects-list)
+* [sourceforge]()
+* [googlecode]()
+* [Netflix](https://github.com/Netflix)
+* [Google]()
+* [腾讯]()
+* [阿里](https://github.com/alibaba)
+* [Dromara](https://dromara.org/)  聚焦云原生
 
 <!-- CONTACT -->
 ## Contact
